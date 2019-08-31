@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android\android-studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AgoraDemo" />
+            <option value="$PROJECT_DIR$/Android应用源码音乐实时跳动频谱显示Demo" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/EventBus-Sample" />
+            <option value="$PROJECT_DIR$/EventBus3.0_Sample" />
+            <option value="$PROJECT_DIR$/SurfaceViewDemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/binderService" />
+            <option value="$PROJECT_DIR$/jcvideoplayer-lib" />
+            <option value="$PROJECT_DIR$/speechDemo" />
+            <option value="$PROJECT_DIR$/speechdemo2" />
+            <option value="$PROJECT_DIR$/startallplayer" />
+            <option value="$PROJECT_DIR$/tryEventBus_simple" />
+            <option value="$PROJECT_DIR$/vitamio" />
+            <option value="$PROJECT_DIR$/vitamio-sample" />
+            <option value="$PROJECT_DIR$/xListView" />
+            <option value="$PROJECT_DIR$/xUtils3_sample" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

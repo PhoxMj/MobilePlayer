@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_p.png",
+        "source": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_color.xml",
+        "source": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting_btn_np.xml",
+        "source": "E:\\AndroidStudioProject\\MobilePlayer\\speechDemo\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    }
+]

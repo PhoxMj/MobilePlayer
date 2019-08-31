@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.3"><source path="E:\AndroidStudioProject\MobilePlayer\SurfaceViewDemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\assets"/></dataSet><dataSet config="main"><source path="E:\AndroidStudioProject\MobilePlayer\SurfaceViewDemo\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\AndroidStudioProject\MobilePlayer\SurfaceViewDemo\src\debug\assets"/></dataSet></merger>
